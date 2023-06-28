@@ -105,7 +105,6 @@ li{
 }
 .footer{
     background-color:#2E2F42;
-    color:#F4F4FD;
     size: 16px; 
     line-height:24px;
     height:312px; 
@@ -114,4 +113,7 @@ li{
 .footer-paragraph{
     padding-left: 156;
     padding-right: 1020;
+}
+.footer-logo{
+    color: #f4f4fd;
 }
