@@ -15,7 +15,14 @@ body{
         text-transform: uppercase;
 }
 .header-logo-blue{
-color: #4D5AE5;
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-align: left;
+    line-height: 1.17;
+    text-transform: uppercase;
 }
 .link{
     text-decoration: none;
@@ -60,11 +67,13 @@ list-style:none;
 .header-menu-link:focus{
     color: #404bbf;
 }
-.header-address-link{
-    color: #2E2F42;
+.header-address-item{
+    color:#434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
-.header-address-link:hover{
-    color: #2E2F42;
+.header-address-item:hover{
+    color: #404bbf
 }
 text{
     size:16px;
