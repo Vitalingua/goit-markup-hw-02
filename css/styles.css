@@ -1,5 +1,5 @@
 
-body{
+.body{
     font-family: "Roboto",sans-serif;
     color: #434455;
     background-color:#FFFFFF;
@@ -76,18 +76,30 @@ list-style:none;
 .header-address-item:hover{
     color: #404bbf
 }
-text{
+.text{
     size:16px;
     line-height:24px;
     color:#434455;
+    size
+    size:16px;
+    line-height:133.333333%; /* 24/18 */
 }
-button:hover{
+.offer-studio{
+    color:#2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%; /* 24/20 */
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+.button:hover{
     background: #404BBF;
     font: #FFFFFF;
     color: white;
         /* Text color when hovering */
 }
-button{
+.button{
     color:#4D5AE5;
     font-size: 16 px;
     font-weight: 500;
