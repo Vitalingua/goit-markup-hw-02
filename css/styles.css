@@ -166,18 +166,21 @@
 .button-portfolio:hover {
     background: #404BBF;
     font: #FFFFFF;
-    color: white;
+    color: #FFFFFF;
     /* Text color when hovering */
 }
 
 .button-portfolio{
     color: #4D5AE5;
-    font-size: 16 px;
+    font-size: 16px;
     font-weight: 500;
     cursor: pointer;
     text-align: center;
-    background-color: #E7E9FC;
+    background-color: var(--button-background-color);
     border: none;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .button-webstudio {
     background-color: #4D5AE5;
