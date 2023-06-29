@@ -127,7 +127,8 @@
     line-height: 24px;
     color: #434455;
     size: 16px;
-    line-height: 133.333333%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .offer-studio {
