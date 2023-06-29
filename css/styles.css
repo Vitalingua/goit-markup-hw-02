@@ -189,7 +189,7 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.button-webstudio {
+.button-web-studio {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -199,10 +199,12 @@
     color: #ffffff;
     cursor: pointer
 }
-.button-webstudio:hover {
+.button-web-studio:hover {
     background-color: #404BBF;
 }
-
+.button-web-studio:focus {
+    background-color: #404BBF;
+}
 ul {
     list-style: none;
 }
