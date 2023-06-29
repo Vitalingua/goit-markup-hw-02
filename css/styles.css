@@ -115,9 +115,16 @@
     letter-spacing: 0.02em;
     color: var(--address-color);
     text-decoration: none;
+    font-style: normal;
 }
 .header-address-item:hover {
-    color: #404bbf
+    color: #404bbf;
+}
+.header-address-link:hover {
+    color: #404bbf;
+}
+.header-address-link:focus {
+    color: #404bbf;
 }
 .address {
     font-style: normal;
