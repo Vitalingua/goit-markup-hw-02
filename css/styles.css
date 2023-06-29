@@ -3,16 +3,19 @@
     color: #434455;
     background-color: #FFFFFF;
 }
-
+:root{
+    --primary-color: #4d5ae5;
+}
 .header-logo {
     font-family: "Raleway", sans-serif;
-    color: #2E2F42;
+    color: var(--primary-color)
     font-size: 18px;
     font-weight: 800;
     letter-spacing: 0.03em;
     text-align: left;
     line-height: 1.17;
     text-transform: uppercase;
+    
 }
 
 .header-logo-blue {
