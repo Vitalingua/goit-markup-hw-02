@@ -6,6 +6,26 @@
 :root{
     --primary-color: #4d5ae5;
 }
+.header-logo-one {
+    line-height: 24px;
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase
+}
+
+.header-logo-two {
+    color: #2E2F42;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 .header-logo-blue {
     font-family: "Raleway", sans-serif;
     color: var(--primary-color);
