@@ -106,14 +106,14 @@
 
 }
 
-.button:hover {
+.button-portfolio:hover {
     background: #404BBF;
     font: #FFFFFF;
     color: white;
     /* Text color when hovering */
 }
 
-.button {
+.button-portfolio{
     color: #4D5AE5;
     font-size: 16 px;
     font-weight: 500;
