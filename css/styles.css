@@ -189,6 +189,9 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
+.header-address {
+    font-style: normal
+}
 .button-web-studio {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
