@@ -208,7 +208,10 @@
 .button-web-studio:focus {
     background-color: #404BBF;
 }
-ul {
+.footer-paragraph {
+    line-height: 1.5;
+}
+.ul {
     list-style: none;
 }
 
