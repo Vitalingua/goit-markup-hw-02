@@ -215,7 +215,9 @@
 .ul {
     list-style: none;
 }
-
+.team-member {
+    background-color: #FFFFFF;
+}
 .footer{
     size: 16px;
         line-height: 24px;
