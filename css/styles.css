@@ -225,6 +225,13 @@
 .team-member {
     background-color: #FFFFFF;
 }
+.catalog-offer {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:var(--text-color);
+}
 .footer{
     size: 16px;
         line-height: 24px;
