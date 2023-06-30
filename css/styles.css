@@ -176,6 +176,10 @@
     color: #FFFFFF;
     /* Text color when hovering */
 }
+.button-portfolio:focus {
+    color:#FFFFFF;
+    background-color: #404BBF;
+}
 
 .button-portfolio {
     color: #4D5AE5;
